@@ -1,0 +1,10 @@
+#box1{
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    transform: .5s ease-in;
+    transition: .5s ease-in;
+    
+    
+}
+#btn:hover{
+    background-color: transparent;
+}
